@@ -60,16 +60,3 @@ x = 10
 y = 5
 z = x * y
 print(z)
-
-## Objectives
-
-The objectives of this notebook are to:
-
-- Introduce Data Science Languages, Libraries, and Tools
-- Demonstrate basic arithmetic operations in Python
-- Convert minutes to hours using Python
-
-## Author
-
-This notebook was created by Berkay.
-
